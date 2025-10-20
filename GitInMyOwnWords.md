@@ -9,8 +9,8 @@
 
 --
 ## Key Terms and definitions
-**Git:** 
-**GitHub:** 
+- **Git:** 
+- **GitHub:** 
 **Repository (or repo for short):** 
 **Cloning (or a clone):** 
 **Commits:** 
